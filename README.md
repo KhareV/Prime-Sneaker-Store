@@ -2,7 +2,7 @@
 
 Welcome to the Prime Sneaker Store project, a modern and stylish e-commerce landing page designed to showcase and sell the latest sneaker collections.
 
-![Prime Landing Page Screenshot](screenshot8000.png)
+![Prime Landing Page Screenshot](screeenshot8000.png)
 ![Prime Landing Page Screenshot](screenshot9000.png)
 
 ## Overview
