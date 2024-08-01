@@ -13,22 +13,22 @@ This project is a fully responsive landing page for a fictional sneaker store na
 
 - Responsive design compatible with various devices and screen sizes.
 
--Stylish and clean user interface.
+- Stylish and clean user interface.
 
--Interactive navigation menu with smooth scrolling.
+- Interactive navigation menu with smooth scrolling.
 
--Featured sneaker collections carousel/slider.
+- Featured sneaker collections carousel/slider.
 
-Sections highlighting new arrivals, best sellers, and exclusive deals.
+- Sections highlighting new arrivals, best sellers, and exclusive deals.
 
--Call-to-action buttons for user engagement.
+- Call-to-action buttons for user engagement.
 
--Footer with social media links and additional information.
+- Footer with social media links and additional information.
 
 ## Technologies Used
 
 - HTML5 for the structure of the webpage.
-- 
+  
 - CSS3 for styling, including Flexbox and Grid for layout.
-- 
+  
 - SCSS (Sass) for advanced CSS features and modular styling.
